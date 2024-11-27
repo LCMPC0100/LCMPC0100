@@ -43,3 +43,13 @@ https://github.com/LCMPC0100/G5---Projeto
 ## Evento
 Uma aplicação web feita para simular um evento gastronomico em João Pessoa, com foco em HTML, CSS.
 https://github.com/LCMPC0100/Evento---p1---unip-
+
+
+# 📞 Contato
+
+Email: lcmpc@cesar.school@gmail.com
+
+LinkedIn: linkedin.com/in/lcmpc 
+
+GitHub: https://github.com/LCMPC0100
+
