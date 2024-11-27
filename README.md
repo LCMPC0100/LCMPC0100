@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Luiz Carlos Machado Portela Cunha
 
-<!--
+
 ** Sou um estudante de Ciência da Computação gosto muito de tecnologia, comecei recentemente minha jornada no mundo da programação, explorando conceitos e linguagens que transformam ideias em soluções diversas e criativas. Atualmente, estou desenvolvendo minhas habilidades em diversas áreas da computação, com foco em Robótica e desenvolvimento web. Além de estudar e aprender novas tecnologias
 
 🎓 Formação
@@ -23,4 +23,4 @@ Frameworks e Ferramentas:
 
 
 
--->
+
