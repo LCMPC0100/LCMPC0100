@@ -9,9 +9,7 @@ Curso: Ciência da Computação
 
 Universidade: Cesar school
 
-Ano de Início: 2024.2
 
-Pretenção de termino: 2028.2
 
 # 🔧 Habilidades e Tecnologias
 
@@ -19,7 +17,7 @@ Pretenção de termino: 2028.2
 
 Python
 JavaScript
-C/C++
+
 
 ## Frameworks e Ferramentas:
 
